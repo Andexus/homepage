@@ -1,0 +1,52 @@
+html {
+        margin: 0;
+        background-color: #2D2D2D;
+        background-size: cover;
+        height:100%;
+        overflow:hidden;
+        font-family: monospace;
+}
+body {
+
+}
+
+.container {
+        height: 1em;
+        position: absolute;
+        top:0;
+        top: 20%;
+        left: 0;
+        right: 0;
+        margin: auto;
+}
+
+.panel {
+        background-color:#777;
+        height:auto;
+	margin-top: 10px;
+}
+
+a {
+        font-size:2vh;
+	padding-left: 10px;
+	color:white!important;
+        text-decoration:none;
+}
+
+a:hover {
+	text-shadow: 0 0 3px #000;
+}
+
+.title {
+	background-color: #666;
+	font-size:3vh;
+	margin-bottom: 0;
+	color:#aaa;
+	padding-bottom: 3px
+}
+
+.links {
+	color:#999;
+	font-size: 2vh;
+}
+
